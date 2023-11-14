@@ -1,0 +1,1 @@
+instananceType="t3.micro"
