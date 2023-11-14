@@ -1,0 +1,1 @@
+instananceType="t2.micro"
